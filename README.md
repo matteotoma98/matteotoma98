@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Matteo Toma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteotoma98&label=Profile%20views&color=0e75b6&style=flat" alt="matteotoma98" /> </p>
 
-- 🔭 I’m currently working on **taking degree**
+- 🔭 I’m currently working on: **taking degree**
 
-- 🌱 I’m currently learning **Everything i can**
+- 🌱 I’m currently learning: **Everything i can**
 
-- ⚡ Fun fact **I love gaming**
+- ⚡ Fun fact: **I love gaming**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Write me here:</h3>
 <p align="left">
 <a href="https://instagram.com/matteotoma_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matteotoma_98" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/matteo toma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="matteo toma" height="30" width="40" /></a>
