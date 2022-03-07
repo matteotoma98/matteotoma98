@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matteo Toma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteotoma98&label=Profile%20views&color=0e75b6&style=flat" alt="matteotoma98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteotoma98&label=Profile%views&color=0e75b6&style=flat" alt="matteotoma98" /> </p>
 
 - 🔭 I’m currently working on: **taking degree**
 
