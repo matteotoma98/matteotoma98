@@ -18,6 +18,7 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 </p>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteotoma98)]
-  </p>
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=H-Lapa&show_icons=true&theme=algolia" />
+<img align="left" width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Lapa&layout=compact&theme=algolia" />
+</p>
 
