@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matteo Toma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteotoma98&label=Profile%20views&color=0e75b6&style=flat" alt="matteotoma98" width="60" height="60" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteotoma98&label=Profile%20views&color=0e75b6&style=flat" alt="matteotoma98" width="200" height="60" /> </p>
 
 - 🔭 I’m currently working on: **Finding a Job**
 
