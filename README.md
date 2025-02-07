@@ -9,7 +9,6 @@
 
 <h3 align="left">Write me here:</h3>
 <p align="left">
-<a href="https://instagram.com/matteotoma_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matteotoma_98" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/matteo-toma-0bb9b1104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/linked-in-alt.svg" alt="matteotoma_98" width="60" height="60" /></a>
 </p>
 
